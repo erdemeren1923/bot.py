@@ -30,7 +30,7 @@ async def noldu(ctx):
 async def ciddiolamassın(ctx):
     await ctx.send(f'')
 
-kshdgflşksdgafjhafsdflaşkjdfslşkjsdf
+
 
 
 
